@@ -1,6 +1,6 @@
-<h1>Project Name</h1>
+<h1>Parallax Website/h1>
 <p>
-  Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae dolorem nostrum vel maiores vitae itaque laudantium non ab! Aliquam recusandae iure quibusdam accusamus tempore impedit eos quia obcaecati? Cumque, quos.
+  I created this website with html, css tailwind and JavaScript
 </p>
 
 <br>
