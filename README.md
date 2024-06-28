@@ -9,7 +9,7 @@
 
 <h2>Website Preview</h2>
 <p>Visit the website: 
-  <a href="https://www.google.com">https://www.google.com</a>
+  <a href="https://hossein-noor-ramsis.github.io/D-7/">https://hossein-noor-ramsis.github.io/D-7/</a>
 </p>
 
 <h3>preview on mobile</h3>
