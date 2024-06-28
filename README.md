@@ -1,4 +1,4 @@
-<h1>Parallax Website/h1>
+<h1>Parallax Website</h1>
 <p>
   I created this website with html, css tailwind and JavaScript
 </p>
