@@ -1,0 +1,105 @@
+/* import tailwind code */
+@import url(./app.css);
+
+/* base styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: content-box;
+}
+
+html {
+  line-height: 1.15; /* 1 */
+  scroll-behavior: smooth;
+  margin: 0rem auto;
+}
+
+body {
+  direction: ltr;
+  font-family: "Poppins", sans-serif;
+  display: grid;
+  grid-template-rows: repeat(3, auto);
+  max-width: 1360px;
+  min-width: 320px;
+  margin: 0rem auto;
+}
+
+#parallax div {
+  max-width: 1360px;
+  left: 50%;
+  transform: translate(-50%, 0);
+  transition: 0.5s;
+}
+
+#parallax {
+  height: 100vh;
+}
+
+#parallax img {
+  object-fit: cover;
+}
+
+/* add background parallax images */
+.bg-img-0 {
+  background-image: url(../assets/image/0.png);
+}
+
+.bg-img-1 {
+  background-image: url(../assets/image/1.png);
+}
+
+.bg-img-2 {
+  background-image: url(../assets/image/2.png);
+}
+
+.bg-img-3 {
+  background-image: url(../assets/image/3.png);
+}
+
+.bg-img-4 {
+  background-image: url(../assets/image/4.png);
+}
+
+.bg-img-5 {
+  background-image: url(../assets/image/5.png);
+}
+
+.bg-img-6 {
+  background-image: url(../assets/image/6.png);
+}
+
+.bg-img-7 {
+  background-image: url(../assets/image/7.png);
+}
+
+.bg-img-8 {
+  background-image: url(../assets/image/8.png);
+}
+
+/* add animation classes */
+.animation-show {
+  opacity: 0;
+  transform: translateY(50px);
+  transition: 0.7s;
+}
+
+.active .animation-show {
+  opacity: 1;
+  transform: translateY(0px);
+}
+
+.animation-show:nth-child(1) {
+  transition-delay: 0.3s;
+}
+
+.animation-show:nth-child(2) {
+  transition-delay: 0.6s;
+}
+
+.animation-show:nth-child(3) {
+  transition-delay: 0.9s;
+}
+
+.animation-show:nth-child(4) {
+  transition-delay: 1.2s;
+}
