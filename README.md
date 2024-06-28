@@ -11,23 +11,3 @@
 <p>Visit the website: 
   <a href="https://hossein-noor-ramsis.github.io/D-7/">https://hossein-noor-ramsis.github.io/D-7/</a>
 </p>
-
-<h3>preview on mobile</h3>
-<div>
-  <img src="./Source/Image/test.jpg" alt="img">
-  <br>
-  <img src="./Source/Image/test.jpg" alt="img">
-  <br>
-  <img src="./Source/Image/test.jpg" alt="img">
-</div>
-
-<br>
-<br>
-<br>
-
-<h3>preview on desktop</h3>
-<div>
-  <img src="./Source/Image/test.jpg" alt="img">
-  <img src="./Source/Image/test.jpg" alt="img">
-  <img src="./Source/Image/test.jpg" alt="img">
-</div>
