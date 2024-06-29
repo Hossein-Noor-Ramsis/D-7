@@ -595,6 +595,10 @@ video {
   margin-top: 1rem;
 }
 
+.mt-5 {
+  margin-top: 1.25rem;
+}
+
 .flex {
   display: flex;
 }
@@ -661,6 +665,15 @@ video {
 
 .rounded-full {
   border-radius: 9999px;
+}
+
+.border-t-2 {
+  border-top-width: 2px;
+}
+
+.border-\[\#12f7ff\] {
+  --tw-border-opacity: 1;
+  border-color: rgb(18 247 255 / var(--tw-border-opacity));
 }
 
 .bg-\[\#210002\] {
@@ -738,8 +751,17 @@ video {
   line-height: 1.5rem;
 }
 
+.text-lg {
+  font-size: 1.125rem;
+  line-height: 1.75rem;
+}
+
 .font-extrabold {
   font-weight: 800;
+}
+
+.font-semibold {
+  font-weight: 600;
 }
 
 .text-white {
