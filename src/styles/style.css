@@ -76,7 +76,7 @@ body {
   background-image: url(../assets/image/8.png);
 }
 
-/* add animation classes */
+/* add show animation classes */
 .animation-show {
   opacity: 0;
   transform: translateY(50px);
